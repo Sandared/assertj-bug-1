@@ -1,0 +1,32 @@
+{
+    "typeId": "__________8",
+    "name": "Application 1",
+    "id": "AAAAAAAAAAE",
+    "typeName": "Application",
+    "properties": [
+        {
+            "name": "accountNr",
+            "id": "AAAAAAAAA-k",
+            "attributeId": "AAAAAAAAAAE",
+            "dataType": "Integer",
+            "value": 2147483647
+        },
+        {
+            "name": "name",
+            "id": "AAAAAAAAA-o",
+            "attributeId": "AAAAAAAAAAE",
+            "dataType": "String",
+            "value": "Application 1"
+        },
+        {
+            "name": "Datasources",
+            "id": "",
+            "attributeId": "",
+            "dataType": "List<String>",
+            "value": [
+                "Unknown"
+            ]
+        }
+    ],
+    "children": []
+}

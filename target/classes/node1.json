@@ -1,0 +1,32 @@
+{
+    "typeId": "__________0",
+    "name": "Virtual Server 1",
+    "id": "AAAAAAAAAAc",
+    "typeName": "Virtual Server",
+    "properties": [
+        {
+            "name": "sevenDayAverageCPU",
+            "id": "AAAAAAAAG1k",
+            "attributeId": "AAAAAAAAAAc",
+            "dataType": "Double",
+            "value": 1.7976931348623157E308
+        },
+        {
+            "name": "name",
+            "id": "AAAAAAAAG1o",
+            "attributeId": "AAAAAAAAAAc",
+            "dataType": "String",
+            "value": "Virtual Server 1"
+        },
+        {
+            "name": "Datasources",
+            "id": "",
+            "attributeId": "",
+            "dataType": "List<String>",
+            "value": [
+                "Unknown"
+            ]
+        }
+    ],
+    "children": []
+}
