@@ -1,2 +1,3 @@
-# assertj-bug-1
-Example setup for a ?bug? in assertj-core
+# README
+
+Setup for a possible bug in AssertJ-Core 3.21.0
