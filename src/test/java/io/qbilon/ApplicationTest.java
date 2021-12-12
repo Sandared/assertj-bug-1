@@ -28,6 +28,11 @@ public class ApplicationTest {
     assertThat(vs1).usingRecursiveComparison().ignoringCollectionOrderInFields("properties").isEqualTo(app1);
   }
 
+  @Test
+  public void test2() {
+    assertThat(Double.MAX_VALUE).usingRecursiveComparison().isEqualTo(Integer.MAX_VALUE);
+  }
+
   private NodeDTO node(String name, List<PropertyDTO> properties) {
     NodeDTO dto = new NodeDTO();
     dto.name = name;
